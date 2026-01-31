@@ -54,8 +54,7 @@ This repository contains a comprehensive guide to **Python Basics** covering fun
     - [Exception / Try Except](#exception--try-except)
   - [🚀 Getting Started](#-getting-started)
     - [Requirements](#requirements)
-  - [📁 Files](#-files)
-  - [💡 Tips for Learning](#-tips-for-learning)
+  - [� Tips for Learning](#-tips-for-learning)
   - [📝 Topics Covered Summary](#-topics-covered-summary)
 
 ---
@@ -462,13 +461,6 @@ finally:
 
 - Python 3.x installed
 - Jupyter Notebook or VS Code with Python extension
-
----
-
-## 📁 Files
-
-- `python_basic_level.ipynb` - Main learning notebook with all examples
-- `README.md` - This documentation file
 
 ---
 
